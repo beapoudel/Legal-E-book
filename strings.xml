@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KnowITAll</string>
+    <string name="head">Hi I am Android</string>
+    <string name="opendrawer">Open</string>
+    <string name="closedrawer">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Home</string>
+    <string name="items">SEARCH BOOKS</string>
+    <string name="test">Search</string>
+    <string name="Written">Written by:-</string>
+    <string name="Publisher">Publisher:-</string>
+    <string name="Read">Web Reader</string>
+    <string name="download">Download</string>
+</resources>

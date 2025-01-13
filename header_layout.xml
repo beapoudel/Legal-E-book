@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="176dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#A1F2A5"
+    android:paddingStart="30dp"
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="Header Image"
+        android:layout_marginRight="20dp"
+        android:src="@drawable/knowitall" />
+
+</LinearLayout>
